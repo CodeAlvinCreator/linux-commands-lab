@@ -1,3 +1,4 @@
+
 ls
 grep
 touch
@@ -5,3 +6,5 @@ mv
 pwd
 cd
 rm
+mkdir 
+rmdir 
