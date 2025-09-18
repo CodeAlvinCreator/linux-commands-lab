@@ -1,0 +1,3 @@
+pwd shows the current directory 
+ls lists the sub-directories
+touch creates a new file
