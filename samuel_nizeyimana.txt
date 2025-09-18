@@ -19,3 +19,13 @@ touch <file> = Create an empty file
 cat <file> = Show contents of a file
 
 nano <file> or vi <file> = Open a file in a text editor
+
+uname -a = Show system details.
+
+whoami = Show logged-in user.
+
+uptime = Show system running time.
+
+df -h = Show disk space usage.
+
+free -h = Show memory usage.
