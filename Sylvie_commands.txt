@@ -1,0 +1,8 @@
+pwd - print working directory
+cd - change directory
+mkdir - make a new directory
+rm - remove files or directories
+cp - copy files
+mv - move or rename files
+cat - display file contents
+touch - create empty file

@@ -1,0 +1,24 @@
+ls
+ls -l       # detailed list
+ls -a       # show hidden files
+
+# Change directory
+cd <path>
+cd ..       # go up one directory
+cd ~        # go to home directory
+
+# Create directory / file
+mkdir <dir_name>
+touch <file_name>
+
+# Copy, move, remove
+cp <file> <destination>
+mv <file> <destination>
+rm <file>
+rm -r <dir_name>   # remove directory
+
+# View file contents
+cat <file>
+less <file>        # scroll inside
+head <file>        # first 10 lines
+tail <file>        # last 10 lines
