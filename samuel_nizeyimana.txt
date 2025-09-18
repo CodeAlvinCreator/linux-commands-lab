@@ -1,0 +1,21 @@
+some linux commands 
+
+pwd = Shows the current working directory (where you are)
+
+ls = Lists files and directories in the current location
+
+ls -l (detailed view), ls -a (show hidden files)
+
+cd <directory> = Change directory. (cd .. goes one step back)
+
+mkdir <name> = Create a new directory
+
+rmdir <name> = Remove an empty directory
+
+rm -r <dir> = Remove directory with all contents
+
+touch <file> = Create an empty file
+
+cat <file> = Show contents of a file
+
+nano <file> or vi <file> = Open a file in a text editor
